@@ -54,7 +54,7 @@ animation:at-blink 10s infinite;} @keyframes at-blink{from{opacity:0}to{opacity:
 .dorothystanding {
 	position: fixed;
 	bottom: 0;
-	left: 1%;
+	left: 2%;
 	bottom: 45px;
 	z-index: 300;
 }
